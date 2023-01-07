@@ -1,0 +1,102 @@
+#page{
+    max-width: 1200px;
+    margin: 0 auto;
+    
+    
+    }
+
+#header{
+text-align: center;
+
+}
+
+
+
+
+
+#top{
+border: 1px solid #0769ad;
+background-color: #0769ad;
+color:#0769ad ;
+
+}
+
+
+
+
+
+
+.pan{
+    background-color: #0769ad;
+    border: none;
+    color: azure;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+
+
+#ima{
+margin-top: 40px;
+border: 1px solid whitesmoke;
+background-color: whitesmoke;
+
+
+}
+#first{
+float: left;
+    border: 1px solid #0769ad;
+    background-color: #0769ad;
+    border-width: 10px;
+color: seashell;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+width: 33%;
+    clear:both ;
+    margin-top: 20px;
+  text-align: center;
+}
+
+#regis{
+float: left;
+text-align: center;
+border: 1px solid #0769ad;
+background-color: #0769ad;
+color: seashell;
+font-family: sans-serif;
+margin-left: 21px;
+margin-top: 20px;
+padding: 3%;
+border-width: 1px;
+}
+
+#kaka{
+    margin-right: 3px;
+
+}
+#buttono{
+border: 1px solid #b24926;
+background-color: #b24926;
+color: seashell;
+text-align: center;
+float: left;
+padding:1%;
+margin-top:20px ;
+margin-left: 21px;
+
+}
+
+#buttons{
+    border: 1px solid #b24926;
+background-color: #b24926;
+color: seashell;
+text-align: center;
+float: left;
+padding:1%;
+margin-top:20px ;
+margin-left: 21px;
+}
